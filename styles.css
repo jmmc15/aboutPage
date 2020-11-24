@@ -80,9 +80,9 @@ footer{
 }
 
 .section-two{
-    margin-top:55em;
-    padding: 10em;
-    font-size: 1rem;
+    margin-top:39em;
+    padding: 5em;
+    font-size: 1.5rem;
     font-weight: 500;
     text-shadow: 1px 0px #FFFFFF;
     text-align: justify;
@@ -101,9 +101,10 @@ li:hover{
 }
 .footer-textContent{
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 500;
     text-decoration: none;
+    text-align: center;
     transition:1s;
     color:white;
     cursor:pointer;
